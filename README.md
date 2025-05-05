@@ -8,6 +8,6 @@ forum.drugs-and-users.org --  Primarily a Harm Mitigation Website / Forum built 
 
 > Feel free to fork, issue, or contribute responsibly.
 
-![Forum Banner](banner4.png)
+![Forum Banner](https://forum.drugs-and-users.org/banner4.png)
 
 [![Visit Forum](https://img.shields.io/badge/Forum-Live-blue)](https://forum.drugs-and-users.org)
