@@ -1,6 +1,6 @@
 # forum.drugs-and-users.org
 
-forum.drugs-and-users.org
+forum.drugs-and-users.org --  Primarily a Harm Mitigation Website / Forum built on L.A.M.P Technologies
 
 > **Welcome to the dopetalk GitHub page!**
 
